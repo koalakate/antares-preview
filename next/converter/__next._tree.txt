@@ -1,2 +1,2 @@
 :HL["/antares-preview/next/_next/static/chunks/07pvx53zgi.58.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"converter","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"LRf_7Dl7v-5UgZzCghc87"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"converter","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"fcXjY8p-Wh9CdfKh7ttoL"}
