@@ -1,5 +1,10 @@
-:HL["/antares-preview/_next/static/chunks/144ukdj8-4u8~.css","style"]
+:HL["/antares-preview/_next/static/chunks/0dabrv0ggw3xf.css","style"]
+:HL["/antares-preview/logos/powerbi.svg","image"]
+:HL["/antares-preview/logos/tableau.svg","image"]
+:HL["/antares-preview/logos/databricks.svg","image"]
+:HL["/antares-preview/logos/qlik.svg","image"]
+:HL["/antares-preview/logos/sas.svg","image"]
 :HL["/antares-preview/analyzer-screenshot.png","image"]
 :HL["/antares-preview/t1a-logo.svg","image"]
 :HL["/antares-preview/obv.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"qnRRD7e4Ir24uQX3-vozs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"EXKo0qdVj3uZ6me1eHgXY"}
