@@ -1,4 +1,4 @@
-:HL["/antares-preview/next/_next/static/chunks/0qk.sypwv28h6.css","style"]
+:HL["/antares-preview/next/_next/static/chunks/02ah.a5o9d.af.css","style"]
 :HL["/antares-preview/next/logos/powerbi.svg","image"]
 :HL["/antares-preview/next/logos/tableau.svg","image"]
 :HL["/antares-preview/next/logos/databricks.svg","image"]
@@ -7,4 +7,4 @@
 :HL["/antares-preview/next/analyzer-screenshot.png","image"]
 :HL["/antares-preview/next/t1a-logo.svg","image"]
 :HL["/antares-preview/next/obv.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"nockegzLzZ9TjcvsDVyxk"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"xWEnT-fb9CRRXcItsl6er"}
